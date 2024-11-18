@@ -1,5 +1,5 @@
 package NOV.EX121124;
-
+import java.util.Scanner;
 public class LAB0011 {
     public static void main(String[] args) {
 
@@ -18,10 +18,6 @@ public class LAB0011 {
         scanner.close();
 
 
-
-
-
-
     }
-    }
+}
 
